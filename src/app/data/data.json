@@ -1,0 +1,242 @@
+{
+	"projects": [
+		{
+			"id": "1",
+			"title": "ПЭТ НЕТ",
+			"description": "Сайт федеральной сети центров ядерноймедицины 'ПЭТ-Технолоджи'",
+			"year": "2023",
+			"img": {
+				"imgLink": "/img/project1.jpg",
+				"alt": "ПЭТ НЕТ"
+			},
+			"tags": [
+				{
+					"id": "1",
+					"text": "Поддержка и развитие",
+					"active": true
+				},
+				{
+					"id": "2",
+					"text": "Проектирование"
+				},
+				{
+					"id": "3",
+					"text": "Дизайн"
+				},
+				{
+					"id": "4",
+					"text": "Разработка"
+				},
+				{
+					"id": "4",
+					"text": "Базовая оптимизация"
+				}
+			],
+			"links": [
+				{
+					"id": "1",
+					"text": "pet-net.ru",
+					"link": "https://www.pet-net.ru/"
+				}
+			]
+		},
+		{
+			"id": "2",
+			"title": "БРЕНДЫ РУСАГРО",
+			"description": "Корпоративные сайты для брендов Русагро",
+			"year": "2022",
+			"img": {
+				"imgLink": "/img/project2.jpg",
+				"alt": "БРЕНДЫ РУСАГРО"
+			},
+			"tags": [
+				{
+					"id": "1",
+					"text": "Проектирование"
+				},
+				{
+					"id": "2",
+					"text": "Дизайн"
+				},
+				{
+					"id": "3",
+					"text": "Разработка"
+				},
+				{
+					"id": "4",
+					"text": "Базовая оптимизация"
+				}
+			],
+			"links": [
+				{
+					"id": "1",
+					"text": "russiansugar.com",
+					"link": "https://russiansugar.com/"
+				},
+				{
+					"id": "2",
+					"text": "chaikofsky.ru",
+					"link": "https://chaikofsky.ru/"
+				},
+				{
+					"id": "3",
+					"text": "tradikrupa.ru",
+					"link": "https://tradikrupa.ru/"
+				},
+				{
+					"id": "4",
+					"text": "rusahar.ru",
+					"link": "https://rusahar.ru/ru"
+				}
+			]
+		},
+		{
+			"id": "3",
+			"title": "Life Form",
+			"description": "Конкурс цифрового искусства и мобильной фотографии от официального реселлера Apple в России re:Store",
+			"year": "2023",
+			"img": {
+				"imgLink": "/img/project3.jpg",
+				"alt": "Life Form"
+			},
+			"tags": [
+				{
+					"id": "1",
+					"text": "Промо"
+				},
+				{
+					"id": "2",
+					"text": "Проектирование"
+				},
+				{
+					"id": "3",
+					"text": "Дизайн"
+				},
+				{
+					"id": "4",
+					"text": "Разработка"
+				},
+				{
+					"id": "5",
+					"text": "Поддержка"
+				}
+			],
+			"links": [
+				{
+					"id": "1",
+					"text": "lifeform.re-store.ru",
+					"link": "https://lifeform.re-store.ru/"
+				}
+			]
+		},
+		{
+			"id": "4",
+			"title": "youtalk",
+			"description": "Онлайн-сервис психологической поддержки",
+			"year": "2019 — 2021",
+			"img": {
+				"imgLink": "/img/project4.jpg",
+				"alt": "youtalk"
+			},
+			"tags": [
+				{
+					"id": "1",
+					"text": "Поддержка и развитие"
+				},
+				{
+					"id": "2",
+					"text": "Проектирование"
+				},
+				{
+					"id": "3",
+					"text": "Дизайн"
+				},
+				{
+					"id": "4",
+					"text": "Разработка"
+				},
+				{
+					"id": "5",
+					"text": "Поддержка"
+				},
+				{
+					"id": "6",
+					"text": "Продуктовая аналитика"
+				}
+			],
+			"links": [
+				{
+					"id": "1",
+					"text": "youtalk.ru",
+					"link": "https://youtalk.ru/"
+				}
+			]
+		},
+		{
+			"id": "5",
+			"title": "ProstorCrew",
+			"description": "Сайт event агентства ProstorCrew",
+			"year": "2023",
+			"img": {
+				"imgLink": "/img/project5.jpg",
+				"alt": "ProstorCrew"
+			},
+			"tags": [
+				{
+					"id": "1",
+					"text": "Проектирование"
+				},
+				{
+					"id": "2",
+					"text": "Дизайн"
+				},
+				{
+					"id": "3",
+					"text": "Дизайн"
+				}
+			],
+			"links": [
+				{
+					"id": "1",
+					"text": "prostorcrew.com",
+					"link": "https://prostorcrew.com/"
+				}
+			]
+		},
+		{
+			"id": "6",
+			"title": "РЕСТОРАН ВИНО И СЫР",
+			"description": "Сайт крымского ресторана 'Вино и Сыр'",
+			"year": "2023",
+			"img": {
+				"imgLink": "/img/project6.jpg",
+				"alt": "ProstorCrew"
+			},
+			"tags": [
+				{
+					"id": "1",
+					"text": "Проектирование"
+				},
+				{
+					"id": "2",
+					"text": "Дизайн"
+				},
+				{
+					"id": "3",
+					"text": "Разработка"
+				},
+				{
+					"id": "4",
+					"text": "Базовая оптимизация"
+				}
+			],
+			"links": [
+				{
+					"id": "1",
+					"text": "winecheese.ru",
+					"link": "https://winecheese.ru/"
+				}
+			]
+		}
+	]
+}
